@@ -30,7 +30,7 @@ label{
 }
 #username
 {
-    color: white;
+    color: black;
     border-radius: 50%;
     display: flex;
     justify-content: center;
@@ -38,7 +38,7 @@ label{
     flex-direction: column;
 }
 #password{
-    color:white;
+    color:black;
     
 }
 /*input{
