@@ -13,7 +13,7 @@ flex-direction: column;
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    background-color:black;
+    background-color:plum;
     padding: 50px;
     width: 200px;
     height: 150px;
@@ -30,7 +30,7 @@ label{
 }
 #username
 {
-    color: blueviolet;
+    color: white;
     border-radius: 50%;
     display: flex;
     justify-content: center;
@@ -38,7 +38,7 @@ label{
     flex-direction: column;
 }
 #password{
-    color:blueviolet;
+    color:white;
     
 }
 /*input{
