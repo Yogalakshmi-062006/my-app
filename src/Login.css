@@ -1,0 +1,51 @@
+.parent{
+    display: grid;
+    place-items: center;
+    height: 100vh;
+flex-direction: column;
+    background-color:color-mix(in darkblue,aqua, 60%, 30%);
+   
+    
+    
+}
+.child{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: plum;
+    padding: 50px;
+    width: 200px;
+    height: 150px;
+    
+    
+    
+}
+label{
+    display: inline;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    
+}
+#username
+{
+    color: blueviolet;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+#password{
+    color:blueviolet;
+    
+}
+/*input{
+    background-color: aqua;
+
+}*/
+.hello{
+    color: black;
+    background-color: lightgreen;
+}
